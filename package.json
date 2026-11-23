@@ -24,6 +24,6 @@
     "lite-server": "^2.6.1",
     "mongoose": "^8.24.7",
     "morgan": "^1.12.1",
-    "webpack": "^5.99.8"
+    "webpack": "^5.113.0"
   }
 }
